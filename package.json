@@ -39,7 +39,11 @@
     ],
     "rules": {},
     "parserOptions": {
-      "parser": "babel-eslint"
+      "parser": "babel-eslint",
+      "ecmaFeatures": {
+        "jsx": true,
+        "modules": true
+      }
     }
   },
   "browserslist": [
