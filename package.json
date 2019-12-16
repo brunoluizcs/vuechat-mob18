@@ -10,6 +10,7 @@
   "dependencies": {
     "bootstrap": "^4.4.1",
     "core-js": "^3.4.3",
+    "eslint-plugin-import": "^2.19.1",
     "firebase": "^7.5.0",
     "jquery": "^3.4.1",
     "moment": "^2.24.0",
