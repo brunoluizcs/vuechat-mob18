@@ -1,5 +1,7 @@
 # mob18-chat
 
+O Chat publicado pode ser acessado pelo link https://mob18-chat.netlify.com/
+
 ## Project setup
 ```
 npm install
